@@ -1,5 +1,5 @@
 # unity-like-plank-theme
-A plank dock theme that doesn't look like Unity but gives you a similar interface:
+Simply a plank dock theme that doesn't look like Unity but gives you a similar interface:
 
 ![](http://storage4.static.itmages.ru/i/15/0812/h_1439388648_7404510_1456122678.png)
 
